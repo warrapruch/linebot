@@ -45,7 +45,7 @@
       echo $response . "\r\n";
     return $response;
 }
-$Topic = "linebot";
-$lineMsg = "CHECK";
-getMqttfromlineMsg($Topic,$lineMsg);
+//$Topic = "linebot";
+//$lineMsg = "CHECK";
+//getMqttfromlineMsg($Topic,$lineMsg);
 ?>
